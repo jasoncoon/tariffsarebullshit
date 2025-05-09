@@ -4,6 +4,8 @@ title: "DigiKey and tariffs"
 date: 2025-05-09 07:41:08 -0500
 ---
 
+Tariffs aimed at foreign suppliers squeeze domestic innovators.
+
 NPR story:
 
 A rural Minnesota town is home to the biggest tech giant you've never heard of. Now it's riding out an unprecedented kind of storm.

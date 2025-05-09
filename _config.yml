@@ -9,4 +9,5 @@ plugins:
   - jekyll-remote-theme
 
 minima:
+  show_excerpts: true
   skin: dark
