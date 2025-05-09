@@ -1,0 +1,8 @@
+title: Tariffs Are Bullshit
+baseurl: ""
+url: ""
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
