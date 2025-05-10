@@ -34,4 +34,4 @@ I am reading.
 >CEO
 >JDS Industries 
 
-- Newsletter: [https://go.jdsindustries.com/d/HwVFoY-SjFj_ldlnkw9Hqgr9Xo8f3JRIKSa8pZyIcS0Ag-0vAAbPPyusGPydXVKWqkZxu7FReqhZ6YUgSoWJ9XewRbMnfLcsci1Mk-x8Uc4)
+- Newsletter: [https://go.jdsindustries.com/d/HwVFoY-SjFj_ldlnkw9Hqgr9Xo8f3JRIKSa8pZyIcS0Ag-0vAAbPPyusGPydXVKWqkZxu7FReqhZ6YUgSoWJ9XewRbMnfLcsci1Mk-x8Uc4](https://go.jdsindustries.com/d/HwVFoY-SjFj_ldlnkw9Hqgr9Xo8f3JRIKSa8pZyIcS0Ag-0vAAbPPyusGPydXVKWqkZxu7FReqhZ6YUgSoWJ9XewRbMnfLcsci1Mk-x8Uc4)
