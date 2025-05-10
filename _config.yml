@@ -11,3 +11,9 @@ plugins:
 minima:
   show_excerpts: true
   skin: dark
+
+defaults:
+  - scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "post"

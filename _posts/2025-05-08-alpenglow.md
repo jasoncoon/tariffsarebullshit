@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Alpenglow's video on tariffs
-date: 2025-05-08 20:17:08 -0500
 ---
 
 Tariffs are bad for everyone, especially US manufacturers.

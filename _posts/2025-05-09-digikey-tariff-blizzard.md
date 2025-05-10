@@ -1,7 +1,5 @@
 ---
-layout: post
 title: "DigiKey and tariffs"
-date: 2025-05-09 07:41:08 -0500
 ---
 
 Tariffs aimed at foreign suppliers squeeze domestic innovators.

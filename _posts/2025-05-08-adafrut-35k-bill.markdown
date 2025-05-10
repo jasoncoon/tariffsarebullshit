@@ -1,7 +1,5 @@
 ---
-layout: post
 title: Adafruit's first $35K tariff bill
-date: 2025-05-08 20:17:08 -0500
 ---
 
 High tariffs become ‘real’ with Adafruit's first $36K bill.
